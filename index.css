@@ -1,6 +1,7 @@
 body {
    color: black;
    background-image: linear-gradient(to bottom right, rgb(166, 237, 188), rgb(254, 254, 254));  
+   min-height: 100vh;
    font-family: Arial, Helvetica, sans-serif ;
 }
 
